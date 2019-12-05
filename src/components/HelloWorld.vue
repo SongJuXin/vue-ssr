@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+hello!
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
@@ -51,6 +52,7 @@ ul {
 li {
   display: inline-block;
   margin: 0 10px;
+  color:red;
 }
 a {
   color: #42b983;
